@@ -1,0 +1,9 @@
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\obj\Debug\DoctorsHandbook.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\obj\Debug\DoctorsHandbook.Properties.Resources.resources
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\obj\Debug\DoctorsHandbook.csproj.GenerateResource.cache
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\obj\Debug\DoctorsHandbook.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\bin\Debug\DoctorsHandbook.exe.config
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\bin\Debug\DoctorsHandbook.exe
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\bin\Debug\DoctorsHandbook.pdb
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\obj\Debug\DoctorsHandbook.exe
+C:\Users\Dima\Desktop\OPR\DoctorsHandbook\obj\Debug\DoctorsHandbook.pdb
